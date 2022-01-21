@@ -1,2 +1,2 @@
-# image-card-with-primary-and-secondary-action-buttons
+# birthdates-palindrome
 Created with CodeSandbox
